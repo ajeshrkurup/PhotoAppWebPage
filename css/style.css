@@ -1,0 +1,35 @@
+
+body {
+  padding-top: 50px; 
+}
+
+.em-text {
+    color: #1caa98 !important;
+}
+
+#brand-logo {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.jumbotron {
+    background: url(../Images/site_showcase_bg.jpg) no-repeat top center;
+    color: #ffffff;
+}
+
+.jumbotron h1 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.app-btn {
+    width: 33%;
+    height: 60px;
+    margin: 50px 45px 0 0 ;       
+}
+
+.showcase-img {
+    margin-top: 9px;
+    margin-left: 10%;
+}
+
